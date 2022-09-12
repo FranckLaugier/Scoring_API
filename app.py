@@ -29,4 +29,5 @@ def make_prediction(ID):
     print('Prediction : ',  str(prediction))
     return jsonify({"prediction": prediction})
 
-app.run()
+if __name__ == "__main__":
+    app.run( debug=True)
