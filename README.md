@@ -1,6 +1,6 @@
-# OpenClassRooms_P7_API
+# Scoring_API
 
-Dans le cadre du projet P7, déploiement d'une API sur Heroku. Cette API prédit la probabilité de non remboursement d'un crédit sur la base d'un ID_client.
+Déploiement d'une API sur Heroku. Cette API prédit la probabilité de non remboursement d'un crédit sur la base d'un ID_client.
 
 Lien vers la page d'accueil de l'API :  https://franck-app-heroku.herokuapp.com/
 
